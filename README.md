@@ -1,3 +1,6 @@
+## Note:
+This repository has been modified for the needs of Engagelab VIVA project, to pass additional information into the upload completion event.
+
 # tus-node-server
 [![npm version](https://badge.fury.io/js/tus-node-server.svg)](https://badge.fury.io/js/tus-node-server)
 [![Build Status](https://travis-ci.org/tus/tus-node-server.svg?branch=master)](https://travis-ci.org/tus/tus-node-server)
